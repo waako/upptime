@@ -4,15 +4,15 @@
     "url": "https://www.shiatsusociety.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.shiatsusociety.org.ico",
     "slug": "ssuk",
-    "status": "up",
-    "uptime": "96.56%",
+    "status": "down",
+    "uptime": "96.57%",
     "uptimeDay": "22.83%",
-    "uptimeWeek": "6.25%",
-    "uptimeMonth": "36.15%",
-    "uptimeYear": "94.68%",
+    "uptimeWeek": "6.32%",
+    "uptimeMonth": "36.32%",
+    "uptimeYear": "94.69%",
     "time": 429,
-    "timeDay": 632,
-    "timeWeek": 735,
+    "timeDay": 608,
+    "timeWeek": 730,
     "timeMonth": 644,
     "timeYear": 450,
     "dailyMinutesDown": {
@@ -38,7 +38,7 @@
       "2025-02-06": 1237,
       "2025-02-05": 1225,
       "2025-02-04": 1185,
-      "2025-02-03": 553
+      "2025-02-03": 477
     }
   }
 ]
