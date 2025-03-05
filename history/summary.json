@@ -6,14 +6,14 @@
     "slug": "ssuk",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "24.65%",
-    "uptimeWeek": "37.97%",
-    "uptimeMonth": "85.73%",
+    "uptimeDay": "26.12%",
+    "uptimeWeek": "38.14%",
+    "uptimeMonth": "85.77%",
     "uptimeYear": "98.81%",
     "time": 464,
     "timeDay": 672,
     "timeWeek": 622,
-    "timeMonth": 635,
+    "timeMonth": 633,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2025-03-05": 892,
@@ -22,7 +22,7 @@
       "2025-03-02": 867,
       "2025-03-01": 1082,
       "2025-02-28": 1096,
-      "2025-02-27": 220
+      "2025-02-27": 202
     }
   }
 ]
