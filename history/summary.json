@@ -4,7 +4,7 @@
     "url": "https://www.shiatsusociety.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.shiatsusociety.org.ico",
     "slug": "ssuk",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
     "uptimeDay": "98.01%",
     "uptimeWeek": "99.72%",
@@ -36,7 +36,7 @@
       "2025-04-01": 385,
       "2025-03-31": 830,
       "2025-03-30": 435,
-      "2025-03-29": 371
+      "2025-03-29": 348
     }
   }
 ]
