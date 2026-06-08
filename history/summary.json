@@ -6,10 +6,10 @@
     "slug": "ssuk",
     "status": "down",
     "uptime": "70.26%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "87.62%",
-    "uptimeMonth": "96.77%",
-    "uptimeYear": "17.98%",
+    "uptimeDay": "86.30%",
+    "uptimeWeek": "86.38%",
+    "uptimeMonth": "96.48%",
+    "uptimeYear": "17.95%",
     "time": 702,
     "timeDay": 3299,
     "timeWeek": 2929,
@@ -321,7 +321,8 @@
       "2026-06-04": 434,
       "2026-06-05": 361,
       "2026-06-06": 381,
-      "2026-06-07": 73
+      "2026-06-07": 73,
+      "2026-06-08": 124
     }
   }
 ]
